@@ -1,0 +1,1 @@
+hist(steps_each_day$st,xlab="Total Daily Steps",main= "Total Steps Taken Each Day",breaks=60)
